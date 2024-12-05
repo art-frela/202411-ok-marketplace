@@ -7,6 +7,8 @@ build/
 ### IntelliJ IDEA ###
 .idea/
 .gigaide/
+/.idea/
+/.gigaide/
 *.iws
 *.iml
 *.ipr
